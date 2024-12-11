@@ -28,10 +28,10 @@ Wirely is an advanced initiative pushing the boundaries of 3D printing and intel
 ## 📂 **Repositories Overview**
 Each repository is carefully designed to focus on a specific component of the Wirely project. Explore them all:
 
-- [📘 **Thermoforming Circuit Boards**](#): Dive into our methods for creating next-gen circuit boards using 3D printing.
-- [📗 **Defect Detection**](#): Access our AI-powered defect detection algorithms and training datasets.
-- [📙 **Automatic Correction**](#): See how we bring real-time error correction to life with our neural networks.
-- [📕 **Digital Twin**](#): Discover the virtual representation of the 3D printer, complete with live updates and enhanced visualization.
+- [📘 **Thermoforming Circuit Boards**](https://github.com/Wirely-Printer/TCB): Dive into our methods for creating next-gen circuit boards using 3D printing.
+- [📗 **Defect Detection**](https://github.com/Wirely-Printer/Defect-Detection): Access our AI-powered defect detection algorithms and training datasets.
+- [📙 **Automatic Correction**](https://github.com/Wirely-Printer/Automatic-Correction): See how we bring real-time error correction to life with our neural networks.
+- [📕 **Digital Twin**](https://github.com/Wirely-Printer/Digital-Twin): Discover the virtual representation of the 3D printer, complete with live updates and enhanced visualization.
 
 ---
 
