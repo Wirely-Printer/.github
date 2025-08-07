@@ -7,19 +7,19 @@ Welcome to the Wirely organization! We're excited to share our cutting-edge work
 ## 🛠️ **What We’re Building**
 Wirely is an advanced initiative pushing the boundaries of 3D printing and intelligent systems. Our work is organized into several repositories, each dedicated to a specific part of the project:
 
-- **💡 Thermoforming Circuit Boards (TCBs)**: 
+- **Thermoforming Circuit Boards (TCBs)**: 
   - Thermoformed Circuit Boards (TCBs) leverage 3D printing to produce custom-shaped, conductive circuit boards using accessible FDM printers, offering enhanced design freedom compared to traditional methods.
   - Our workflow streamlines the process from 2D design to fully functional TCBs, enabling rapid prototyping and integration of electronics into complex shapes tailored for various applications.
 
-- **🤖 Defect Detection**:
-  - Our custom-designed Convolutional Neural Network analyzes live camera feed during 3D printing, achieving 96% average accuracy in detecting defects and automatically halting the printer if the defect probability exceeds 80% in the last 5 predictions.
+- **Defect Detection**:
+  - Our custom-designed Convolutional Neural Network analyzes live camera feed during 3D printing, achieving 97% average accuracy in detecting defects and automatically halting the printer if the defect probability exceeds 80% in the last 5 predictions.
   - This feature minimizes material waste, improves production efficiency, and eliminates the need for constant manual supervision, saving time and ensuring reliability.
 
-- **⚙️ Automatic Correction**:
-  - Our system employs a multi-head neural network trained on a comprehensive dataset of over 1.2 million images to enable real-time error detection and correction during 3D printing across diverse geometries, materials, and printing methods, achieving an accuracy of 82%.
+- **⚙Automatic Correction**:
+  - Our system employs a multi-head neural network trained on a comprehensive dataset of over 1.2 million images to enable real-time error detection and correction during 3D printing across diverse geometries, materials, and printing methods, achieving an accuracy of 84.7%.
   - By analyzing prediction sequences and applying proportional corrections using mode thresholds and interpolation scaling, the system ensures precise adjustments to key parameters like flow rate, lateral speed, Z offset, and hotend temperature, optimizing print quality and reducing failure rates.
 
-- **🌐 Digital Twin**:
+- **Digital Twin**:
   - Our real-time digital twin replicates the 3D printer's movements with zero delay, utilizing G-code parsing and dynamic equations to accurately simulate all XYZ movements, state metrics, and operational parameters.
   - This Industry 4.0-enabled system ensures seamless two-way communication, real-time visualization of key metrics such as temperature, offset, and flow rate, and is perfectly suited for print farms to monitor and manage multiple printers efficiently.
 
