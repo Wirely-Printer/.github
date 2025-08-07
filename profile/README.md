@@ -1,6 +1,6 @@
-# **Welcome to Wirely 🚀 | Revolutionizing 3D Printing**
+# **Welcome to Wirely | Revolutionizing 3D Printing**
 
-Welcome to the Wirely organization! We're excited to share our cutting-edge work in 3D printing 🌟
+Welcome to the Wirely organization! We're excited to share our cutting-edge work in 3D printing
 
 ---
 
@@ -42,8 +42,8 @@ Each repository is carefully designed to focus on a specific component of the Wi
 
 ---
 
-## 🌍 **Join the Revolution**
-Wirely isn’t just a project; it’s a vision for the future of additive manufacturing. Whether you're a maker, researcher, or engineer, we invite you to contribute, explore, and innovate with us. Let's redefine 3D printing together! 🚀
+## **Join the Revolution**
+Wirely isn’t just a project; it’s a vision for the future of additive manufacturing. Whether you're a maker, researcher, or engineer, we invite you to contribute, explore, and innovate with us. Let's redefine 3D printing together!
 
 ---
 
