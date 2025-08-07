@@ -4,7 +4,7 @@ Welcome to the Wirely organization! We're excited to share our cutting-edge work
 
 ---
 
-## 🛠️ **What We’re Building**
+## **What We’re Building**
 Wirely is an advanced initiative pushing the boundaries of 3D printing and intelligent systems. Our work is organized into several repositories, each dedicated to a specific part of the project:
 
 - **Thermoforming Circuit Boards (TCBs)**: 
